@@ -1,0 +1,34 @@
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.exe.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csprojResolveAssemblyReference.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Form1.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Properties.Resources.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csproj.GenerateResource.Cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Yonetici.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Sekreter.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.exe.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csprojResolveAssemblyReference.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Form1.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Properties.Resources.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Sekreter.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Yonetici.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csproj.GenerateResource.Cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.exe.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\bin\Debug\Yönetici Modülü.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csprojAssemblyReference.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Form1.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Properties.Resources.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Sekreter.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici_Modülü.Yonetici.resources
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csproj.GenerateResource.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.csproj.CoreCompileInputs.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Yönetici Modülü\Yönetici Modülü\obj\Debug\Yönetici Modülü.pdb

@@ -1,0 +1,101 @@
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\ApplicationInsights.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\csc.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\vbc.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\VBCSCompiler.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.dll.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Web.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Web.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.csprojResolveAssemblyReference.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017 Vize 2\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\ApplicationInsights.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\csc.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\vbc.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\VBCSCompiler.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.dll.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Web.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Web.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.csprojResolveAssemblyReference.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\2017 Vize 2\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\ApplicationInsights.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\csc.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\vbc.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\VBCSCompiler.exe
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.dll.config
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Doktor Modulu.pdb
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Web.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.Web.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.csprojAssemblyReference.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.csproj.CoreCompileInputs.cache
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.csproj.CopyComplete
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.dll
+C:\Users\msadu\OneDrive\Belgeler\Visual Studio 2015\Projects\2017-VİZE-2\Ödev Teslim\Doktor Modulu\Doktor Modulu\obj\Debug\Doktor Modulu.pdb
